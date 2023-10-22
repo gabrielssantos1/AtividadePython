@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ZG2R5-Mt1pJMcSzWjLqP5kwTZZw75PyB
 """
 
-#3: jogo da forca
+#03: jogo da forca
 
 import random
 # Lista de palavras para o jogo
