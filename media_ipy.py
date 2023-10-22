@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1GsbbflmKNDoruB41gq7cRmM0mIwQvWIZ
 """
 
-#1: Calculadora da média de quatro notas
+#01: Calculadora da média de quatro notas
 
 #input das notas
 
